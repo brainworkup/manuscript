@@ -52,3 +52,5 @@ rsconnect/
 .history/
 .quarto/
 .vscode/
+
+/.quarto/

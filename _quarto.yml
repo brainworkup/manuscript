@@ -8,14 +8,10 @@ format:
   html:
     comments:
       hypothesis: true
-  docx: default
+  typst:
+    keep-typ: true
   jats: default
-
-  # (other formats)
-  # pdf: default
+  docx: default
 
 execute:
   freeze: true
-
-
-
