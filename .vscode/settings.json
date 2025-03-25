@@ -10,7 +10,7 @@
     "sash.hoverBorder": "#dee2fc66",
     "sideBar.border": "#dee2fc66",
     "tab.activeBorder": "#dee2fc66"
-  },
+},
   "files.exclude": {
     ".history": true,
     ".quarto": true,

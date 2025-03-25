@@ -54,3 +54,5 @@ rsconnect/
 .vscode/
 
 /.quarto/
+
+_extensions/

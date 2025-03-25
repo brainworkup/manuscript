@@ -5,34 +5,185 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
   <front>
     <article-meta>
       <title-group>
-        <article-title>manuscript</article-title>
+        <article-title>Deconstructing Simple and Choice Decision and Movement
+Time Across the Spectrum of Schizophrenia Genetic Risk</article-title>
+        <subtitle>Schizophrenia Reaction Time</subtitle>
       </title-group>
       <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yu</surname>
+            <given-names>Bridget</given-names>
+          </name>
+          <string-name>Bridget Yu</string-name>
+          <email>name2@usc.edu</email>
+          <xref ref-type="aff" rid="ksom">a</xref>
+          <xref ref-type="author-note" rid="auth-note-1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Henn</surname>
+            <given-names>Alina T.</given-names>
+          </name>
+          <string-name>Alina T. Henn</string-name>
+          <xref ref-type="aff" rid="rwth">b</xref>
+          <xref ref-type="author-note" rid="auth-note-2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fleck</surname>
+            <given-names>Samantha</given-names>
+          </name>
+          <string-name>Samantha Fleck</string-name>
+          <email>name@usc.edu</email>
+          <xref ref-type="aff" rid="ksom">a</xref>
+          <xref ref-type="author-note" rid="auth-note-3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Berman</surname>
+            <given-names>Karen F.</given-names>
+          </name>
+          <string-name>Karen F. Berman</string-name>
+          <email>bermank@mail.nih.gov</email>
+          <xref ref-type="aff" rid="nimh">d</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Weinberger</surname>
+            <given-names>Daniel R.</given-names>
+          </name>
+          <string-name>Daniel R. Weinberger</string-name>
+          <email>drweinberger@libd.org</email>
+          <xref ref-type="aff" rid="libd">e</xref>
+          <xref ref-type="author-note" rid="auth-note-5">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dickinson</surname>
+            <given-names>Dwight</given-names>
+          </name>
+          <string-name>Dwight Dickinson</string-name>
+          <email>dwight.dickinson@nih.gov</email>
+          <xref ref-type="aff" rid="nimh">d</xref>
+        </contrib>
         <contrib contrib-type="author" corresp="yes">
           <name>
-            <surname>Jones</surname>
-            <given-names>Norah</given-names>
+            <surname>Trampush</surname>
+            <given-names>Joey W.</given-names>
           </name>
-          <string-name>Norah Jones</string-name>
-          <role vocab="https://credit.niso.org" vocab-term="writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">writing</role>
-          <xref ref-type="aff" rid="aff-1">a</xref>
-          <xref ref-type="corresp" rid="cor-1">*</xref>
+          <string-name>Joey W. Trampush</string-name>
+          <email>joey.trampush@med.usc.edu</email>
+          <xref ref-type="aff" rid="ksom">a</xref>
+          <xref ref-type="corresp" rid="cor-7">*</xref>
+          <xref ref-type="author-note" rid="auth-note-7">7</xref>
         </contrib>
       </contrib-group>
-      <aff id="aff-1">
+      <aff id="ksom">
+        <institution content-type="dept">Department of Psychiatry and the
+Behavioral Sciences</institution>
         <institution-wrap>
-          <institution>The University</institution>
+          <institution>Keck School of Medicine of the University of Southern
+California, Los Angeles, CA</institution>
+        </institution-wrap>
+        <addr-line>2250 Alcazar Street, CSC 2200</addr-line>
+        <city>Los Angeles</city>
+        <state>CA</state>
+        <postal-code>90033</postal-code>
+      </aff>
+      <aff id="rwth">
+        <institution content-type="dept">Department of Psychiatry</institution>
+        <institution-wrap>
+          <institution>Department of Psychiatry, Psychotherapy and Psychosomatics,
+School of Medicine, RWTH Aachen University, Aachen,
+Germany</institution>
         </institution-wrap>
       </aff>
+      <aff id="ksom">
+        <institution content-type="dept">Department of Psychiatry and the
+Behavioral Sciences</institution>
+        <institution-wrap>
+          <institution>University of Southern California, Keck School of Medicine,
+Los Angeles, CA</institution>
+        </institution-wrap>
+        <addr-line>2250 Alcazar Street, CSC 2200</addr-line>
+        <city>Los Angeles</city>
+        <state>CA</state>
+        <postal-code>90033</postal-code>
+      </aff>
+      <aff id="nimh">
+        <institution content-type="dept">NIMH</institution>
+        <institution-wrap>
+          <institution>Clinical and Translational Neuroscience Branch, Intramural
+Research Program, National Institute of Mental Health, National
+Institutes of Health, Bethesda, MD</institution>
+        </institution-wrap>
+        <addr-line>10 Center Drive, Magnuson Clinical Center, Bldg. 10, Room
+3C103A</addr-line>
+        <city>Bethesda</city>
+        <state>MD</state>
+        <postal-code>20814</postal-code>
+      </aff>
+      <aff id="libd">
+        <institution content-type="dept">Departments of Psychiatry, Neurology,
+Neuroscience, and Genetic Medicine</institution>
+        <institution-wrap>
+          <institution>Lieber Institute for Brain Development, Maltz Research
+Laboratories, Departments of Psychiatry, Neurology, Neuroscience, and
+Genetic Medicine, Johns Hopkins School of Medicine, Baltimore,
+MD</institution>
+        </institution-wrap>
+        <addr-line>855 North Wolfe Street, 3rd floor Rangos Bldg.</addr-line>
+        <city>Baltimore</city>
+        <state>MD</state>
+        <postal-code>21205</postal-code>
+      </aff>
+      <aff id="nimh">
+        <institution content-type="dept">NIMH CBDB/GCAP</institution>
+        <institution-wrap>
+          <institution>Clinical and Translational Neuroscience Branch, Intramural
+Research Program, National Institute of Mental Health, National
+Institutes of Health, Bethesda, MD</institution>
+        </institution-wrap>
+        <addr-line>10 Center Drive</addr-line>
+        <city>Bethesda</city>
+        <state>MD</state>
+        <postal-code>20892</postal-code>
+      </aff>
       <author-notes>
-        <corresp id="cor-1"/>
+        <corresp id="cor-7">joey.trampush@med.usc.edu</corresp>
+        <fn id="auth-note-1" fn-type="author-note" symbol="1">This is the first
+author footnote.</fn>
+        <fn id="auth-note-2" fn-type="author-note" symbol="2">Author
+footnote.</fn>
+        <fn id="auth-note-3" fn-type="author-note" symbol="3">
+          <p>Another author
+footnote, this is a very long footnote and it should be a really long
+footnote. But this footnote is not yet sufficiently long enough to make
+two lines of footnote text.</p>
+        </fn>
+        <fn id="auth-note-5" fn-type="author-note" symbol="5">
+          <p>Author
+footnote.</p>
+        </fn>
+        <fn id="auth-note-7" fn-type="author-note" symbol="7">Senior author
+footnote.</fn>
       </author-notes>
       <history/>
+      <kwd-group kwd-group-type="author">
+        <kwd>schizophrenia</kwd>
+        <kwd>reaction time</kwd>
+        <kwd>genetics</kwd>
+        <kwd>decision time</kwd>
+        <kwd>movement time</kwd>
+        <kwd>cognitive ability</kwd>
+        <kwd>familiality</kwd>
+      </kwd-group>
     </article-meta>
   </front>
   <body>
     <sec id="section">
-      <title>Section</title>
+      <title>1 Section</title>
       <p>This is a simple placeholder for the manuscript’s main document
   (<xref alt="Knuth 1984" rid="ref-knuth84" ref-type="bibr">Knuth
   1984</xref>).</p>

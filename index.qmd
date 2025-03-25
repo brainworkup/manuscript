@@ -1,10 +1,110 @@
 ---
-title: manuscript
-authors:
-  - name: Norah Jones
-    affiliation: The University
-    roles: writing
-    corresponding: true
+title: "Deconstructing Simple and Choice Decision and Movement Time Across the Spectrum of Schizophrenia Genetic Risk"
+subtitle: Schizophrenia Reaction Time
+author:
+  - name: Bridget Yu
+    email: name2@usc.edu
+    affiliations:
+        - id: ksom
+          name: Keck School of Medicine of the University of Southern California, Los Angeles, CA
+          department: Department of Psychiatry and the Behavioral Sciences
+          address: 2250 Alcazar Street, CSC 2200
+          city: Los Angeles
+          state: CA
+          postal-code: 90033
+    note:
+      This is the first author footnote.
+  - name: Alina T. Henn
+    email:
+    affiliations:
+        - id: rwth
+          name: Department of Psychiatry, Psychotherapy and Psychosomatics, School of Medicine, RWTH Aachen University, Aachen, Germany
+          department: Department of Psychiatry
+          address:
+          city:
+          state:
+          postal-code:
+    note:
+      Author footnote.
+  - name: Samantha Fleck
+    email: name@usc.edu
+    affiliations:
+        - id: ksom
+          name: University of Southern California, Keck School of Medicine, Los Angeles, CA
+          department: Department of Psychiatry and the Behavioral Sciences
+          address: 2250 Alcazar Street, CSC 2200
+          city: Los Angeles
+          state: CA
+          postal-code: 90033
+    note: |
+      Another author footnote, this is a very long footnote and it should be a really long footnote. But this footnote is not yet sufficiently long enough to make two lines of footnote text.
+  - name: Karen F. Berman
+    email: bermank@mail.nih.gov
+    affiliations:
+        - id: nimh
+          name: Clinical and Translational Neuroscience Branch, Intramural Research Program, National Institute of Mental Health, National Institutes of Health, Bethesda, MD
+          department: NIMH
+          address: 10 Center Drive, Magnuson Clinical Center, Bldg. 10, Room 3C103A
+          city: Bethesda
+          state: MD
+          postal-code: 20814
+  - name: Daniel R. Weinberger
+    email: drweinberger@libd.org
+    affiliations:
+        - id: libd
+          name: Lieber Institute for Brain Development, Maltz Research Laboratories, Departments of Psychiatry, Neurology, Neuroscience, and Genetic Medicine, Johns Hopkins School of Medicine, Baltimore, MD
+          department: Departments of Psychiatry, Neurology, Neuroscience, and Genetic Medicine
+          address: 855 North Wolfe Street, 3rd floor Rangos Bldg.
+          city: Baltimore
+          state: MD
+          postal-code: 21205
+    note: |
+      Author footnote.
+  - name: Dwight Dickinson
+    email: dwight.dickinson@nih.gov
+    affiliations:
+        - id: nimh
+          name: Clinical and Translational Neuroscience Branch, Intramural Research Program, National Institute of Mental Health, National Institutes of Health, Bethesda, MD
+          department: NIMH CBDB/GCAP
+          address: 10 Center Drive
+          city: Bethesda
+          state: MD
+          postal-code: 20892
+  - name: Joey W. Trampush
+    email: joey.trampush@med.usc.edu
+    affiliations:
+        - id: ksom
+          name: University of Southern California, Keck School of Medicine, Los Angeles, CA
+          department: Department of Psychiatry and the Behavioral Sciences
+          address: 2250 Alcazar Street, CSC 2200
+          city: Los Angeles
+          state: CA
+          postal-code: 90033
+    attributes:
+        corresponding: true
+    note:
+      Senior author footnote.
+keywords:
+  - schizophrenia
+  - reaction time
+  - genetics
+  - decision time
+  - movement time
+  - cognitive ability
+  - familiality
+date: last-modified
+date-format: long
+
+execute:
+  echo: false
+  warning: false
+  message: false
+  comment: "#>"
+  fig-path: "targets/figures/"
+  fig-dpi: 600
+highlights: |
+  These are the highlights.
+number-sections: true
 bibliography: references.bib
 ---
 
